@@ -37,7 +37,7 @@ const WatchMovie = new Item({
     name:"WatchMovie"
 });
 
-const defaultItems = [ReadBooks,Play,WatchMovie];
+const defaultItems = [];
 
 
 //schema for diffrent items like for work, home
